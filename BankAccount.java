@@ -1,4 +1,4 @@
-package ca.uwo.csd.cs2212.USERNAME;
+package Git_jenkins_ramen;
 
 public class BankAccount {
 
